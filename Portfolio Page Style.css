@@ -1,0 +1,52 @@
+body{
+    font-family: Tahoma;
+}
+
+h1{
+    font-size: 2em;
+    text-align:center;
+    color: #E6E2DD;
+    padding: 0.5rem;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+h2{
+    font-size:1.5em;
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+h3{
+    font-size:1em;
+    color: orange
+
+}
+#head {
+    background-color: #6E6E6E;
+    padding: 3rem;
+}
+#middle{
+    background-color: #F7F4E9;
+    padding-top: 2.5rem; 
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2.5rem;
+}
+
+#contact-box{
+    background-color: #1F3044;
+    padding: 2.5rem;
+    color: #E6E2DD;
+}
+#contacts{
+    color: #E6E2DD;
+}
+#name{
+    color:#E1E2E2;
+    text-align: center;
+}
+
