@@ -17,15 +17,18 @@ The data is filtered down to features of continuous values and scaled. The featu
 ## Principal Component Analysis
 The features are reduced to 4 principal components, of which the first two are used for visualisation. The total explained variance ratio is 71% (good), and for PC1 and PC2, 48% (not great, but ok for this dummy setup).
 
+PC1 vs PC2 Biplot with clusters
+![newplot (3)](https://user-images.githubusercontent.com/80417833/165811549-58332395-e06b-4f96-8a4f-5a384dedbefa.png)
+
 ## Clustering
 Methods used:
 * K-means clustering model of n clusters = 3
 * Hierarchical model applied to features
 
+Here are feature patterns of each cluster:
 ![newplot](https://user-images.githubusercontent.com/80417833/165811152-e27cb299-909a-481b-b8a0-3d6276b0e223.png)
 ![newplot (1)](https://user-images.githubusercontent.com/80417833/165811256-6820bb62-eae1-41b9-b953-7dee2e4cfb61.png)
 ![newplot (2)](https://user-images.githubusercontent.com/80417833/165811329-faa60eee-dea3-435a-bbc2-405d52c86da4.png)
-
 
 ## Outcomes
 * 76% accuracy when comparing clusters to ground truth classification
