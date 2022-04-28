@@ -26,6 +26,7 @@ Methods used:
 * Hierarchical model applied to features
 
 Here are feature patterns of each cluster:
+
 ![newplot](https://user-images.githubusercontent.com/80417833/165811152-e27cb299-909a-481b-b8a0-3d6276b0e223.png)
 ![newplot (1)](https://user-images.githubusercontent.com/80417833/165811256-6820bb62-eae1-41b9-b953-7dee2e4cfb61.png)
 ![newplot (2)](https://user-images.githubusercontent.com/80417833/165811329-faa60eee-dea3-435a-bbc2-405d52c86da4.png)
