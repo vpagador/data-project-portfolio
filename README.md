@@ -1,1 +1,1 @@
-# music-data-project
+# Data Project using Spotipy feature data
